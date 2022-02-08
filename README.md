@@ -1,3 +1,3 @@
 
 ## My Portfolio Website 
-https://ishjot15.github.io/Portfolio-main/
+https://ishjot15.github.io/My-Portfolio/
